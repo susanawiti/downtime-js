@@ -1,0 +1,102 @@
+body{
+	font-family: arial,"Segoe UI";
+	padding: 0;
+	margin: 0;
+ 
+}
+
+ header{
+	background: #2E3842;
+	color: #fff;
+	text-transform: uppercase;
+	text-align: center;
+	padding: 20px;
+	
+}
+h1{
+	color: white;
+	font-weight: normal;
+	text-align: center;
+	margin-top:5px;
+
+
+}
+
+.header{
+	text-align: center;
+	background: #21B2A6;
+	color: #fff;
+	text-transform: uppercase;
+	width:100%; 
+
+}
+.main-cont{
+	max-width: 1000px;
+	margin: 0 auto;
+	padding-top:10px;
+	padding-bottom: 30px;
+
+}
+.main-cont h3 {
+    color: #fff;
+   text-align: center;
+    font-weight: bold;
+    
+}
+.main-cont p {
+	color: #fff;
+	text-align: center;
+	font-weight: normal;
+	margin-bottom: 40px;
+}
+
+.main-cont a {
+	display: block;
+	background: #ED4933;
+	padding: 20px;
+	max-width: 200px;
+	margin: 20px auto;
+	text-decoration: none;
+	color: #fff;
+	border-radius: 25px;
+	letter-spacing: 2px;
+
+}
+.countdown{
+	padding: 40px 20px;
+	
+}
+.countdown-widges{
+	max-width: 500px;
+	margin:0 auto;
+	background: #fff;
+
+
+}
+.timer-box{
+	padding:20px; 
+	width: 10%;
+	float: left;
+	box-sizing: border-box;
+	margin-left: 150px;
+
+
+}
+.timer-box .lable{
+	float: left;
+	text-transform: uppercase;
+	padding:20px;
+	color: #000;
+	
+}
+.timer-box .value{
+	background: #21b2a6;
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+	padding: 20px;
+}
+.clr {
+	clear: both;
+	float: none;
+}
